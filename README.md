@@ -1,8 +1,7 @@
 # .github
-> Default GitHub Repository Files
 
 ## License
-.github - Default GitHub Repository Files<br>
+.github<br>
 Copyright (C) 2022 Elias*
 
 This program is free software: you can redistribute it and/or modify
